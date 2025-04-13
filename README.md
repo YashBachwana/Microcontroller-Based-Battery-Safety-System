@@ -2,7 +2,7 @@
 
 An embedded systems project aimed at developing a real-time safety monitoring system for batteries. The system uses a multimodal sensor setup to detect early signs of battery failure and categorizes operational states into *Safe*, *Cooldown*, and *Evacuation* based on sensor data.
 
-![Battery Safety System](./setup.jpg) 
+![Battery Safety System](./Setup.jpg) 
 
 ## 📋 Overview
 
