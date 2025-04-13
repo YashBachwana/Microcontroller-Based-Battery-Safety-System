@@ -45,11 +45,7 @@ The raw sensor data is collected, mapped to realistic values, and processed to d
 
 ---
 
-## Results
-
-- Accurate detection of safety states.
-- LCD display reflects real-time sensor conditions.
-- System tested with simulated sensor inputs for all edge cases.
+## Demonstration
 
 **[Final Demonstration Video](https://drive.google.com/file/d/1rvyXpuEU12jV9B2nGEwkIB-Cr2O0nJZe/view?usp=sharing)**
 
